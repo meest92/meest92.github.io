@@ -4,7 +4,7 @@ markdown: kramdown
 # URL of the Site
 url: 'meest92.github.io'
 # Base URL of the Site (i.e., Name of the Repository in which the Site is hosted)
-baseurl: 
+baseurl: 'meest92/meest92.github.io'
 
 # Title of the Site
 title: Marc Esteve Ejarque
@@ -13,7 +13,7 @@ description: SysAdmin Windows & Linux Expert / Networking / Firewall UTM / Ciber
 # URL of Image of the Site
 site-image: /WhatATheme/assets/images/meta.jpg
 # Keywords of the Site
-site-keywords: Site, Template, Theme
+site-keywords: Sysadmin, Cibersecurity, Pentesting, Hackthebox, Networking, Linux, Windows, Python
 # URL for the Image of custom Favicon
 favicon-url: 
 
@@ -45,7 +45,7 @@ author-name: Marc Esteve Ejarque
 # URL for the Image of the Author
 author-image: https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png
 # 60 Words About the Author
-author-about: Hola! Soy Marc Esteve, sysadmin y un apasionado de todo lo relacionado con la informatica.
+author-about: Hola Internauta... Te has topado con el portfolio/blog de un entusiasta de la informàtica. Quedate y juntos veremos todos los rincones de este mundillo tan apasionante. ¡Nos vemos pronto! 
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
 author-url: https://github.com/meest92
 
