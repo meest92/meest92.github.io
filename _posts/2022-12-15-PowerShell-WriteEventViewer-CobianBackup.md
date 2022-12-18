@@ -1,7 +1,7 @@
 ---
 title: Cómo escribir errores de Cobian Backup en Visor de Eventos de Windows
 layout: post
-post-image: "https://media.istockphoto.com/id/1317416693/es/foto/word-powershell-en-papel-y-port%C3%A1til.jpg?s=612x612&w=is&k=20&c=LCZb4vzVxDft-AZ_HPam9LRXsPbbm_cUXJ_817V6SuU="
+post-image: "https://cdn.pixabay.com/photo/2013/07/12/14/48/bash-148836_960_720.png"
 description: En este post veremos como generar un script para escribir si el log de Cobian Backup existe algun error o no en el Visor de Eventos de Windows.
 tags:
 - powershell
